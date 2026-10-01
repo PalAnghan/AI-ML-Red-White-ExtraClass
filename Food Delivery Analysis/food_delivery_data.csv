@@ -1,0 +1,501 @@
+Order_ID,Customer_Name,Restaurant,Food_Item,Category,Quantity,Price_INR,Order_Date,Order_Time,Delivery_Time,Payment_Method,Order_Status,City,Rating
+ORD00001,Customer_1755,Food Corner,Veg Burger,Burger,1,149,2026-05-21,13:14,13:42,Wallet,Delivered,Mumbai,5
+ORD00002,Customer_1617,Spice Hub,Margherita Pizza,Pizza,1,249,2026-02-17,13:14,14:06,Wallet,Delivered,Pune,5
+ORD00003,Customer_1829,Spice Hub,Paneer Tikka,Starter,4,840,2026-04-23,17:37,18:14,Credit Card,Cancelled,Ahmedabad,4
+ORD00004,Customer_1100,Green Leaf,Paneer Butter Masala,Indian,2,440,2026-06-22,11:05,11:49,Debit Card,Out for Delivery,Ahmedabad,3
+ORD00005,Customer_1850,Desi Zaika,Veg Sandwich,Fast Food,1,110,2026-07-13,11:35,12:13,Debit Card,Out for Delivery,Vadodara,5
+ORD00006,Customer_1876,Urban Kitchen,Veg Burger,Burger,1,149,2026-04-27,22:18,22:43,UPI,Cancelled,Ahmedabad,5
+ORD00007,Customer_1719,Food Corner,Chole Bhature,Indian,2,280,2026-07-09,15:13,15:50,Wallet,Delivered,Mumbai,5
+ORD00008,Customer_1705,The Food Factory,Veg Biryani,Biryani,2,360,2026-08-25,16:17,17:17,Credit Card,Delivered,Surat,4
+ORD00009,Customer_1936,Desi Zaika,Margherita Pizza,Pizza,3,747,2026-07-25,14:04,14:37,Debit Card,Delivered,Pune,5
+ORD00010,Customer_1763,The Food Factory,White Sauce Pasta,Pasta,4,796,2026-03-15,14:08,14:43,Wallet,Delivered,Pune,5
+ORD00011,Customer_1506,Food Corner,White Sauce Pasta,Pasta,4,796,2026-07-05,13:08,14:00,UPI,Delivered,Vadodara,5
+ORD00012,Customer_1480,The Food Factory,Paneer Butter Masala,Indian,4,880,2026-02-02,16:24,17:22,Debit Card,Out for Delivery,Surat,5
+ORD00013,Customer_1162,Royal Thali,Veg Burger,Burger,3,447,2026-06-24,11:18,12:05,UPI,Delivered,Mumbai,4
+ORD00014,Customer_1204,Tasty Bites,Paneer Tikka,Starter,1,210,2026-06-02,20:32,21:30,Debit Card,Delivered,Mumbai,5
+ORD00015,Customer_1900,Pizza Point,Margherita Pizza,Pizza,3,747,2026-09-08,10:07,10:50,Credit Card,Delivered,Vadodara,5
+ORD00016,Customer_1785,Tasty Bites,Veg Burger,Burger,1,149,2026-09-06,11:48,12:42,Credit Card,Cancelled,Mumbai,4
+ORD00017,Customer_1731,Pizza Point,Masala Dosa,South Indian,4,480,2026-04-19,18:48,19:20,Cash,Delivered,Rajkot,5
+ORD00018,Customer_1022,Desi Zaika,Veg Sandwich,Fast Food,1,110,2026-05-07,13:04,13:45,Wallet,Delivered,Mumbai,4
+ORD00019,Customer_1881,Green Leaf,Margherita Pizza,Pizza,1,249,2026-01-31,13:04,13:26,UPI,Ou`t for Delivery,Vadodara,4
+ORD00020,Customer_1591,Royal Thali,Veg Sandwich,Fast Food,2,220,2026-03-09,21:59,22:55,Credit Card,Cancelled,Rajkot,4
+ORD00021,Customer_1479,Spice Hub,Veg Burger,Burger,1,149,2026-08-09,15:27,16:13,UPI,Delivered,Rajkot,5
+ORD00022,Customer_1460,Tasty Bites,Chole Bhature,Indian,1,140,2026-05-08,13:12,14:06,Cash,Delivered,Ahmedabad,5
+ORD00023,Customer_1101,Spice Hub,Veg Biryani,Biryani,1,180,2026-08-15,22:55,23:50,Wallet,Delivered,Surat,4
+ORD00024,Customer_1925,Spice Hub,Paneer Butter Masala,Indian,4,880,2026-09-06,17:13,17:58,Credit Card,Cancelled,Surat,5
+ORD00025,Customer_1678,Royal Thali,Masala Dosa,South Indian,4,480,2026-05-27,16:44,17:39,Credit Card,Delivered,Ahmedabad,4
+ORD00026,Customer_1489,The Food Factory,Margherita Pizza,Pizza,1,249,2026-06-10,10:03,11:00,Wallet,Delivered,Surat,5
+ORD00027,Customer_1414,Food Corner,Veg Burger,Burger,2,298,2026-02-05,19:04,19:39,Wallet,Delivered,Mumbai,5
+ORD00028,Customer_1536,Green Leaf,Margherita Pizza,Pizza,1,249,2026-08-03,20:37,21:33,Debit Card,Delivered,Pune,5
+ORD00029,Customer_1469,Green Leaf,Chole Bhature,Indian,2,280,2026-05-16,16:08,16:47,UPI,Delivered,Rajkot,5
+ORD00030,Customer_1272,Tasty Bites,Fried Rice,Chinese,1,160,2026-02-07,18:13,19:05,Debit Card,Delivered,Vadodara,4
+ORD00031,Customer_1627,The Food Factory,Masala Dosa,South Indian,2,240,2026-08-13,18:45,19:24,UPI,Out for Delivery,Ahmedabad,5
+ORD00032,Customer_1761,The Food Factory,Veg Burger,Burger,2,298,2026-05-16,11:56,12:22,Credit Card,Delivered,Ahmedabad,5
+ORD00033,Customer_1518,Royal Thali,Veg Biryani,Biryani,3,540,2026-04-15,20:40,21:16,Debit Card,Delivered,Surat,5
+ORD00034,Customer_1653,Pizza Point,White Sauce Pasta,Pasta,3,597,2026-01-23,10:21,10:49,Credit Card,Cancelled,Mumbai,5
+ORD00035,Customer_1559,Spice Hub,White Sauce Pasta,Pasta,1,199,2026-02-27,11:56,12:25,Debit Card,Out for Delivery,Mumbai,4
+ORD00036,Customer_1921,Green Leaf,White Sauce Pasta,Pasta,2,398,2026-01-22,14:23,14:45,Credit Card,Delivered,Pune,3
+ORD00037,Customer_1820,Tasty Bites,Chole Bhature,Indian,4,560,2026-03-21,13:55,14:25,Cash,Delivered,Vadodara,5
+ORD00038,Customer_1392,Spice Hub,Chole Bhature,Indian,4,560,2026-05-08,14:10,14:36,Cash,Delivered,Vadodara,5
+ORD00039,Customer_1409,Green Leaf,Chole Bhature,Indian,3,420,2026-04-27,13:01,13:33,Debit Card,Delivered,Ahmedabad,4
+ORD00040,Customer_1183,Desi Zaika,Paneer Tikka,Starter,4,840,2026-06-19,10:07,10:43,Debit Card,Delivered,Surat,5
+ORD00041,Customer_1119,Burger House,White Sauce Pasta,Pasta,3,597,2026-06-10,16:38,17:30,Wallet,Delivered,Ahmedabad,3
+ORD00042,Customer_1373,Burger House,White Sauce Pasta,Pasta,1,199,2026-09-24,22:34,23:06,UPI,Delivered,Mumbai,4
+ORD00043,Customer_1335,Burger House,Veg Burger,Burger,3,447,2026-09-17,14:42,15:28,Debit Card,Out for Delivery,Vadodara,4
+ORD00044,Customer_1416,The Food Factory,White Sauce Pasta,Pasta,4,796,2026-03-31,19:36,20:15,UPI,Delivered,Ahmedabad,4
+ORD00045,Customer_1524,Royal Thali,White Sauce Pasta,Pasta,3,597,2026-08-27,17:28,18:01,Credit Card,Delivered,Ahmedabad,5
+ORD00046,Customer_1231,Urban Kitchen,Fried Rice,Chinese,3,480,2026-02-17,22:15,22:54,Credit Card,Delivered,Surat,4
+ORD00047,Customer_1590,Urban Kitchen,Veg Sandwich,Fast Food,1,110,2026-08-22,16:56,17:56,Cash,Cancelled,Rajkot,4
+ORD00048,Customer_1181,The Food Factory,Paneer Butter Masala,Indian,1,220,2026-02-24,22:27,23:01,Cash,Delivered,Mumbai,4
+ORD00049,Customer_1573,Desi Zaika,Veg Burger,Burger,4,596,2026-03-10,22:29,23:22,Debit Card,Cancelled,Mumbai,5
+ORD00050,Customer_1461,Pizza Point,Paneer Tikka,Starter,4,840,2026-08-17,12:47,13:37,Credit Card,Delivered,Mumbai,5
+ORD00051,Customer_1241,Pizza Point,Veg Biryani,Biryani,3,540,2026-08-14,11:45,12:23,Debit Card,Delivered,Mumbai,3
+ORD00052,Customer_1724,Urban Kitchen,Paneer Butter Masala,Indian,2,440,2026-04-29,16:44,17:13,UPI,Cancelled,Rajkot,4
+ORD00053,Customer_1399,Desi Zaika,Paneer Tikka,Starter,4,840,2026-08-01,10:13,10:59,UPI,Out for Delivery,Rajkot,5
+ORD00054,Customer_1552,The Food Factory,Margherita Pizza,Pizza,3,747,2026-06-02,22:24,23:10,Wallet,Delivered,Rajkot,4
+ORD00055,Customer_1685,Burger House,Masala Dosa,South Indian,4,480,2026-09-06,10:24,11:05,Credit Card,Cancelled,Vadodara,5
+ORD00056,Customer_1086,Burger House,Paneer Tikka,Starter,1,210,2026-07-21,19:36,19:57,Credit Card,Cancelled,Vadodara,3
+ORD00057,Customer_1346,Burger House,Masala Dosa,South Indian,4,480,2026-06-17,13:29,14:09,Debit Card,Cancelled,Ahmedabad,3
+ORD00058,Customer_1800,Spice Hub,Veg Sandwich,Fast Food,1,110,2026-01-27,15:14,15:38,UPI,Delivered,Vadodara,3
+ORD00059,Customer_1578,Urban Kitchen,Fried Rice,Chinese,2,320,2026-05-03,12:30,12:57,Cash,Delivered,Ahmedabad,4
+ORD00060,Customer_1027,Pizza Point,Fried Rice,Chinese,1,160,2026-03-25,14:06,15:03,Wallet,Cancelled,Rajkot,5
+ORD00061,Customer_1871,Desi Zaika,Veg Biryani,Biryani,1,180,2026-05-05,11:44,12:23,UPI,Out for Delivery,Surat,4
+ORD00062,Customer_1013,Burger House,Paneer Tikka,Starter,4,840,2026-07-09,11:32,12:13,Cash,Delivered,Rajkot,4
+ORD00063,Customer_1989,Pizza Point,Veg Sandwich,Fast Food,2,220,2026-08-11,12:46,13:39,Wallet,Out for Delivery,Rajkot,5
+ORD00064,Customer_1286,Royal Thali,White Sauce Pasta,Pasta,3,597,2026-06-15,13:53,14:18,Credit Card,Cancelled,Mumbai,5
+ORD00065,Customer_1187,Royal Thali,White Sauce Pasta,Pasta,3,597,2026-01-15,17:54,18:34,Credit Card,Delivered,Ahmedabad,4
+ORD00066,Customer_1248,Burger House,Masala Dosa,South Indian,3,360,2026-01-06,18:12,18:37,Cash,Out for Delivery,Vadodara,5
+ORD00067,Customer_1302,Urban Kitchen,Veg Sandwich,Fast Food,4,440,2026-08-18,22:01,22:26,Cash,Delivered,Ahmedabad,5
+ORD00068,Customer_1436,The Food Factory,Fried Rice,Chinese,3,480,2026-08-31,18:33,19:15,Debit Card,Delivered,Pune,5
+ORD00069,Customer_1324,Food Corner,Masala Dosa,South Indian,3,360,2026-05-09,13:07,13:39,Wallet,Delivered,Vadodara,4
+ORD00070,Customer_1853,Urban Kitchen,Veg Sandwich,Fast Food,3,330,2026-09-26,19:18,19:44,Debit Card,Delivered,Ahmedabad,4
+ORD00071,Customer_1567,Pizza Point,Masala Dosa,South Indian,1,120,2026-03-06,14:02,14:25,Credit Card,Cancelled,Surat,3
+ORD00072,Customer_1189,Spice Hub,Fried Rice,Chinese,3,480,2026-08-29,17:28,18:09,Debit Card,Cancelled,Surat,3
+ORD00073,Customer_1156,Tasty Bites,White Sauce Pasta,Pasta,4,796,2026-02-07,19:40,20:03,Wallet,Delivered,Surat,4
+ORD00074,Customer_1462,Royal Thali,Veg Burger,Burger,4,596,2026-04-26,22:33,23:17,Debit Card,Out for Delivery,Rajkot,4
+ORD00075,Customer_1217,Pizza Point,Fried Rice,Chinese,1,160,2026-02-20,22:13,23:13,UPI,Delivered,Vadodara,4
+ORD00076,Customer_1706,Desi Zaika,Paneer Tikka,Starter,1,210,2026-03-22,10:26,11:14,Cash,Delivered,Surat,4
+ORD00077,Customer_1947,Pizza Point,Masala Dosa,South Indian,3,360,2026-08-21,11:43,12:17,Wallet,Delivered,Rajkot,3
+ORD00078,Customer_1074,Spice Hub,Paneer Tikka,Starter,2,420,2026-03-18,14:52,15:21,Credit Card,Delivered,Mumbai,5
+ORD00079,Customer_1717,Burger House,Fried Rice,Chinese,3,480,2026-08-13,11:29,12:08,Debit Card,Out for Delivery,Mumbai,5
+ORD00080,Customer_1619,Pizza Point,Veg Sandwich,Fast Food,1,110,2026-01-21,16:47,17:27,UPI,Delivered,Vadodara,5
+ORD00081,Customer_1482,The Food Factory,Fried Rice,Chinese,1,160,2026-05-18,19:02,19:33,Cash,Delivered,Vadodara,5
+ORD00082,Customer_1342,Green Leaf,White Sauce Pasta,Pasta,4,796,2026-02-16,17:22,18:08,UPI,Delivered,Ahmedabad,5
+ORD00083,Customer_1466,Food Corner,Veg Sandwich,Fast Food,3,330,2026-07-25,22:35,22:57,Debit Card,Delivered,Ahmedabad,3
+ORD00084,Customer_1531,Green Leaf,White Sauce Pasta,Pasta,1,199,2026-08-25,16:03,16:35,Wallet,Cancelled,Pune,5
+ORD00085,Customer_1449,Royal Thali,Margherita Pizza,Pizza,2,498,2026-05-17,18:08,18:46,UPI,Delivered,Pune,5
+ORD00086,Customer_1418,Food Corner,Veg Biryani,Biryani,2,360,2026-06-09,18:00,18:55,Credit Card,Delivered,Rajkot,3
+ORD00087,Customer_1426,Royal Thali,Paneer Butter Masala,Indian,4,880,2026-05-30,18:45,19:22,Cash,Delivered,Rajkot,5
+ORD00088,Customer_1885,Food Corner,Paneer Butter Masala,Indian,4,880,2026-04-08,19:32,20:00,Debit Card,Cancelled,Ahmedabad,5
+ORD00089,Customer_1594,Royal Thali,Masala Dosa,South Indian,1,120,2026-05-25,21:19,22:16,Credit Card,Cancelled,Mumbai,5
+ORD00090,Customer_1891,Urban Kitchen,Chole Bhature,Indian,3,420,2026-07-13,17:59,18:39,Credit Card,Out for Delivery,Rajkot,4
+ORD00091,Customer_1396,Tasty Bites,White Sauce Pasta,Pasta,1,199,2026-06-12,21:30,22:14,Cash,Delivered,Vadodara,5
+ORD00092,Customer_1933,Royal Thali,Fried Rice,Chinese,3,480,2026-02-21,17:06,17:59,UPI,Delivered,Rajkot,5
+ORD00093,Customer_1639,Burger House,Paneer Butter Masala,Indian,1,220,2026-08-29,22:16,22:57,UPI,Delivered,Pune,5
+ORD00094,Customer_1071,Urban Kitchen,White Sauce Pasta,Pasta,3,597,2026-09-07,18:02,19:01,Debit Card,Delivered,Pune,3
+ORD00095,Customer_1926,Spice Hub,White Sauce Pasta,Pasta,1,199,2026-02-21,17:10,17:49,UPI,Delivered,Surat,4
+ORD00096,Customer_1422,Desi Zaika,Chole Bhature,Indian,3,420,2026-08-09,12:15,13:08,Credit Card,Delivered,Vadodara,3
+ORD00097,Customer_1147,Urban Kitchen,Fried Rice,Chinese,4,640,2026-05-04,17:58,18:55,Cash,Delivered,Rajkot,4
+ORD00098,Customer_1076,Royal Thali,Margherita Pizza,Pizza,4,996,2026-05-28,20:34,21:04,Debit Card,Out for Delivery,Ahmedabad,5
+ORD00099,Customer_1874,Royal Thali,White Sauce Pasta,Pasta,3,597,2026-08-22,14:12,14:56,UPI,Delivered,Rajkot,5
+ORD00100,Customer_1282,Spice Hub,Chole Bhature,Indian,3,420,2026-06-01,10:53,11:38,Wallet,Delivered,Mumbai,5
+ORD00101,Customer_1225,Urban Kitchen,Veg Sandwich,Fast Food,3,330,2026-04-28,19:51,20:33,Wallet,Delivered,Pune,5
+ORD00102,Customer_1035,Desi Zaika,Paneer Butter Masala,Indian,1,220,2026-01-21,14:50,15:38,Debit Card,Delivered,Surat,4
+ORD00103,Customer_1898,Green Leaf,Chole Bhature,Indian,4,560,2026-03-31,13:08,14:02,Wallet,Out for Delivery,Ahmedabad,4
+ORD00104,Customer_1824,Food Corner,Masala Dosa,South Indian,4,480,2026-06-01,21:55,22:36,Cash,Delivered,Vadodara,4
+ORD00105,Customer_1271,The Food Factory,White Sauce Pasta,Pasta,3,597,2026-02-16,22:25,22:45,UPI,Cancelled,Ahmedabad,5
+ORD00106,Customer_1483,Spice Hub,Masala Dosa,South Indian,4,480,2026-07-10,11:43,12:17,Wallet,Out for Delivery,Ahmedabad,5
+ORD00107,Customer_1120,Tasty Bites,Veg Biryani,Biryani,1,180,2026-08-26,21:19,22:05,UPI,Delivered,Ahmedabad,5
+ORD00108,Customer_1465,Green Leaf,Veg Burger,Burger,1,149,2026-05-01,18:08,18:52,Wallet,Cancelled,Mumbai,5
+ORD00109,Customer_1962,Pizza Point,Paneer Butter Masala,Indian,4,880,2026-02-20,17:39,18:25,UPI,Delivered,Vadodara,5
+ORD00110,Customer_1558,Green Leaf,Veg Sandwich,Fast Food,2,220,2026-07-05,11:43,12:26,UPI,Cancelled,Ahmedabad,4
+ORD00111,Customer_1612,Spice Hub,Veg Burger,Burger,4,596,2026-02-16,20:13,21:13,UPI,Delivered,Vadodara,4
+ORD00112,Customer_1601,Urban Kitchen,Fried Rice,Chinese,2,320,2026-02-05,22:35,23:08,Credit Card,Delivered,Vadodara,5
+ORD00113,Customer_1818,Tasty Bites,Margherita Pizza,Pizza,3,747,2026-03-16,12:34,13:10,UPI,Delivered,Vadodara,3
+ORD00114,Customer_1054,Tasty Bites,Chole Bhature,Indian,2,280,2026-06-15,10:11,10:47,Cash,Out for Delivery,Surat,5
+ORD00115,Customer_1608,Food Corner,Veg Burger,Burger,4,596,2026-08-18,22:23,23:15,Cash,Out for Delivery,Vadodara,5
+ORD00116,Customer_1491,Burger House,Margherita Pizza,Pizza,3,747,2026-08-23,20:01,20:24,Cash,Delivered,Rajkot,5
+ORD00117,Customer_1068,Tasty Bites,Veg Sandwich,Fast Food,1,110,2026-02-11,15:38,16:07,Debit Card,Out for Delivery,Pune,5
+ORD00118,Customer_1465,The Food Factory,Paneer Tikka,Starter,3,630,2026-07-15,19:33,20:11,Wallet,Cancelled,Surat,5
+ORD00119,Customer_1424,Green Leaf,Veg Burger,Burger,2,298,2026-08-09,17:56,18:30,Cash,Cancelled,Rajkot,5
+ORD00120,Customer_1384,Tasty Bites,Veg Burger,Burger,3,447,2026-08-07,15:42,16:18,Cash,Delivered,Surat,3
+ORD00121,Customer_1832,Tasty Bites,Veg Burger,Burger,4,596,2026-02-19,21:47,22:30,Wallet,Delivered,Mumbai,5
+ORD00122,Customer_1889,Spice Hub,Paneer Tikka,Starter,3,630,2026-03-04,16:22,17:09,Debit Card,Out for Delivery,Ahmedabad,4
+ORD00123,Customer_1868,Food Corner,Veg Burger,Burger,2,298,2026-03-21,20:30,21:04,Debit Card,Out for Delivery,Ahmedabad,3
+ORD00124,Customer_1629,The Food Factory,Masala Dosa,South Indian,2,240,2026-08-08,18:49,19:48,UPI,Out for Delivery,Pune,5
+ORD00125,Customer_1944,Green Leaf,Masala Dosa,South Indian,1,120,2026-04-03,14:44,15:23,Debit Card,Delivered,Vadodara,4
+ORD00126,Customer_1996,Spice Hub,Fried Rice,Chinese,4,640,2026-02-05,12:47,13:47,UPI,Out for Delivery,Vadodara,5
+ORD00127,Customer_1739,Green Leaf,White Sauce Pasta,Pasta,4,796,2026-06-24,12:23,13:02,Wallet,Out for Delivery,Surat,3
+ORD00128,Customer_1454,Burger House,Paneer Butter Masala,Indian,2,440,2026-01-26,20:05,20:42,Cash,Out for Delivery,Rajkot,5
+ORD00129,Customer_1114,Pizza Point,Masala Dosa,South Indian,2,240,2026-09-20,11:22,12:09,Wallet,Cancelled,Mumbai,5
+ORD00130,Customer_1008,Urban Kitchen,Masala Dosa,South Indian,1,120,2026-04-23,16:38,17:01,Debit Card,Delivered,Vadodara,4
+ORD00131,Customer_1180,Tasty Bites,Masala Dosa,South Indian,3,360,2026-03-03,10:31,11:18,Cash,Out for Delivery,Pune,4
+ORD00132,Customer_1447,Spice Hub,Paneer Tikka,Starter,3,630,2026-02-06,16:55,17:17,Cash,Delivered,Ahmedabad,5
+ORD00133,Customer_1022,Green Leaf,White Sauce Pasta,Pasta,4,796,2026-08-02,14:07,14:52,Credit Card,Out for Delivery,Rajkot,5
+ORD00134,Customer_1604,Burger House,Chole Bhature,Indian,1,140,2026-08-12,11:15,12:02,Wallet,Delivered,Rajkot,4
+ORD00135,Customer_1523,Food Corner,Chole Bhature,Indian,2,280,2026-06-20,22:10,22:34,Wallet,Out for Delivery,Vadodara,4
+ORD00136,Customer_1203,Tasty Bites,Chole Bhature,Indian,2,280,2026-05-01,11:09,11:45,Wallet,Delivered,Pune,3
+ORD00137,Customer_1460,Desi Zaika,Paneer Butter Masala,Indian,4,880,2026-08-26,22:36,23:33,Wallet,Delivered,Pune,4
+ORD00138,Customer_1311,Pizza Point,Paneer Butter Masala,Indian,4,880,2026-02-04,17:28,18:28,Wallet,Delivered,Ahmedabad,5
+ORD00139,Customer_1378,Pizza Point,Veg Burger,Burger,3,447,2026-08-25,17:02,17:25,UPI,Delivered,Mumbai,5
+ORD00140,Customer_1461,Desi Zaika,Paneer Tikka,Starter,4,840,2026-08-25,19:35,19:57,Credit Card,Delivered,Mumbai,5
+ORD00141,Customer_1732,Food Corner,Paneer Tikka,Starter,2,420,2026-02-01,17:06,17:47,Wallet,Delivered,Surat,4
+ORD00142,Customer_1373,Green Leaf,Veg Sandwich,Fast Food,4,440,2026-09-26,18:39,19:09,Debit Card,Cancelled,Rajkot,4
+ORD00143,Customer_1572,Burger House,Fried Rice,Chinese,1,160,2026-06-21,11:21,11:47,Debit Card,Delivered,Pune,5
+ORD00144,Customer_1939,Green Leaf,Fried Rice,Chinese,2,320,2026-06-20,11:37,12:06,Debit Card,Cancelled,Vadodara,5
+ORD00145,Customer_1833,Tasty Bites,Veg Burger,Burger,3,447,2026-07-12,20:50,21:31,Wallet,Delivered,Pune,5
+ORD00146,Customer_1974,Urban Kitchen,White Sauce Pasta,Pasta,3,597,2026-01-10,15:19,15:50,Debit Card,Cancelled,Vadodara,4
+ORD00147,Customer_1520,The Food Factory,Paneer Butter Masala,Indian,2,440,2026-02-09,14:54,15:20,Wallet,Delivered,Pune,4
+ORD00148,Customer_1852,Desi Zaika,Fried Rice,Chinese,2,320,2026-07-12,12:10,12:41,Credit Card,Cancelled,Surat,5
+ORD00149,Customer_1240,The Food Factory,Chole Bhature,Indian,2,280,2026-08-16,19:18,20:06,Credit Card,Delivered,Rajkot,4
+ORD00150,Customer_1515,The Food Factory,Chole Bhature,Indian,4,560,2026-08-25,22:18,23:02,Cash,Delivered,Vadodara,5
+ORD00151,Customer_1568,Food Corner,Paneer Butter Masala,Indian,3,660,2026-01-27,20:30,21:13,Wallet,Delivered,Ahmedabad,3
+ORD00152,Customer_1094,Urban Kitchen,Paneer Butter Masala,Indian,3,660,2026-08-19,18:09,18:56,Cash,Delivered,Surat,5
+ORD00153,Customer_1084,Green Leaf,Margherita Pizza,Pizza,4,996,2026-09-15,15:15,15:59,Credit Card,Delivered,Ahmedabad,3
+ORD00154,Customer_1713,Tasty Bites,Chole Bhature,Indian,2,280,2026-03-12,10:18,11:08,Cash,Cancelled,Mumbai,3
+ORD00155,Customer_1562,Desi Zaika,Veg Burger,Burger,1,149,2026-05-12,13:53,14:22,Wallet,Cancelled,Surat,4
+ORD00156,Customer_1655,Desi Zaika,Veg Biryani,Biryani,3,540,2026-03-04,10:15,11:01,Cash,Delivered,Surat,5
+ORD00157,Customer_1299,Burger House,Fried Rice,Chinese,1,160,2026-09-21,19:15,19:44,UPI,Out for Delivery,Ahmedabad,4
+ORD00158,Customer_1537,Green Leaf,Fried Rice,Chinese,4,640,2026-04-06,20:42,21:07,UPI,Out for Delivery,Mumbai,5
+ORD00159,Customer_1397,Green Leaf,Paneer Tikka,Starter,1,210,2026-07-19,17:02,18:02,Debit Card,Delivered,Ahmedabad,3
+ORD00160,Customer_1137,Spice Hub,Chole Bhature,Indian,2,280,2026-02-23,22:37,23:18,Debit Card,Out for Delivery,Ahmedabad,5
+ORD00161,Customer_1065,Royal Thali,Paneer Butter Masala,Indian,4,880,2026-09-03,20:11,20:39,UPI,Delivered,Vadodara,3
+ORD00162,Customer_1835,The Food Factory,Veg Biryani,Biryani,1,180,2026-06-11,14:32,15:17,Cash,Delivered,Surat,5
+ORD00163,Customer_1280,Food Corner,Veg Biryani,Biryani,3,540,2026-07-02,22:03,22:44,Debit Card,Cancelled,Rajkot,5
+ORD00164,Customer_1377,The Food Factory,Veg Sandwich,Fast Food,4,440,2026-06-23,12:31,13:22,Debit Card,Delivered,Pune,5
+ORD00165,Customer_1106,Food Corner,Veg Burger,Burger,4,596,2026-04-03,18:18,18:58,Debit Card,Delivered,Ahmedabad,5
+ORD00166,Customer_1458,Spice Hub,Fried Rice,Chinese,4,640,2026-03-27,21:28,22:10,Debit Card,Out for Delivery,Rajkot,4
+ORD00167,Customer_1976,Spice Hub,Margherita Pizza,Pizza,1,249,2026-07-27,15:32,16:02,Credit Card,Out for Delivery,Pune,5
+ORD00168,Customer_1371,Burger House,Margherita Pizza,Pizza,2,498,2026-02-04,13:49,14:32,Wallet,Delivered,Mumbai,4
+ORD00169,Customer_1588,Tasty Bites,Veg Sandwich,Fast Food,3,330,2026-07-10,17:48,18:12,Wallet,Delivered,Rajkot,4
+ORD00170,Customer_1512,The Food Factory,Masala Dosa,South Indian,2,240,2026-02-28,10:47,11:18,Cash,Out for Delivery,Surat,4
+ORD00171,Customer_1205,Food Corner,Masala Dosa,South Indian,4,480,2026-04-20,19:18,20:09,Credit Card,Delivered,Rajkot,4
+ORD00172,Customer_1564,The Food Factory,Veg Sandwich,Fast Food,1,110,2026-06-13,20:22,20:46,Debit Card,Delivered,Vadodara,5
+ORD00173,Customer_1812,Tasty Bites,Paneer Butter Masala,Indian,3,660,2026-09-18,13:07,13:39,Credit Card,Cancelled,Surat,4
+ORD00174,Customer_1627,Food Corner,Paneer Tikka,Starter,3,630,2026-08-28,22:35,23:03,UPI,Delivered,Rajkot,5
+ORD00175,Customer_1996,Green Leaf,Veg Sandwich,Fast Food,4,440,2026-07-29,19:04,19:32,UPI,Cancelled,Rajkot,5
+ORD00176,Customer_1602,Tasty Bites,Paneer Tikka,Starter,3,630,2026-03-07,22:35,23:35,Credit Card,Cancelled,Mumbai,3
+ORD00177,Customer_1958,Urban Kitchen,Veg Burger,Burger,2,298,2026-06-05,12:10,12:50,Debit Card,Out for Delivery,Ahmedabad,3
+ORD00178,Customer_1630,The Food Factory,Masala Dosa,South Indian,2,240,2026-05-21,12:40,13:19,UPI,Out for Delivery,Pune,4
+ORD00179,Customer_1346,Desi Zaika,Fried Rice,Chinese,2,320,2026-03-29,20:39,21:37,UPI,Delivered,Surat,3
+ORD00180,Customer_1633,Spice Hub,Fried Rice,Chinese,3,480,2026-04-18,22:36,23:22,Cash,Out for Delivery,Ahmedabad,5
+ORD00181,Customer_1305,Royal Thali,Masala Dosa,South Indian,4,480,2026-05-06,22:51,23:36,UPI,Delivered,Vadodara,5
+ORD00182,Customer_1148,Green Leaf,White Sauce Pasta,Pasta,4,796,2026-08-26,13:21,14:19,Debit Card,Delivered,Rajkot,4
+ORD00183,Customer_1274,Royal Thali,Chole Bhature,Indian,1,140,2026-06-13,13:29,13:56,Credit Card,Delivered,Surat,3
+ORD00184,Customer_1834,Green Leaf,Masala Dosa,South Indian,4,480,2026-08-03,13:55,14:25,Wallet,Delivered,Vadodara,4
+ORD00185,Customer_1093,Burger House,Veg Sandwich,Fast Food,4,440,2026-09-13,14:31,14:52,Wallet,Cancelled,Vadodara,4
+ORD00186,Customer_1612,Royal Thali,Fried Rice,Chinese,3,480,2026-01-25,10:18,11:09,Debit Card,Out for Delivery,Surat,3
+ORD00187,Customer_1375,Spice Hub,White Sauce Pasta,Pasta,2,398,2026-05-16,21:23,22:08,Cash,Delivered,Mumbai,5
+ORD00188,Customer_1462,The Food Factory,Veg Biryani,Biryani,3,540,2026-05-28,11:24,12:16,Debit Card,Out for Delivery,Pune,5
+ORD00189,Customer_1572,Green Leaf,Veg Burger,Burger,2,298,2026-02-19,16:23,17:04,Credit Card,Delivered,Mumbai,5
+ORD00190,Customer_1824,Royal Thali,White Sauce Pasta,Pasta,1,199,2026-01-24,10:08,10:49,Wallet,Cancelled,Vadodara,5
+ORD00191,Customer_1403,Desi Zaika,Paneer Tikka,Starter,2,420,2026-06-17,19:20,19:50,Debit Card,Out for Delivery,Ahmedabad,5
+ORD00192,Customer_1378,Green Leaf,Paneer Tikka,Starter,4,840,2026-06-03,17:52,18:13,UPI,Cancelled,Mumbai,4
+ORD00193,Customer_1592,Urban Kitchen,Margherita Pizza,Pizza,4,996,2026-05-16,20:50,21:47,UPI,Out for Delivery,Rajkot,4
+ORD00194,Customer_1587,Food Corner,Paneer Tikka,Starter,4,840,2026-03-17,20:15,20:37,Credit Card,Delivered,Rajkot,4
+ORD00195,Customer_1514,Desi Zaika,White Sauce Pasta,Pasta,2,398,2026-07-31,21:13,21:59,Cash,Delivered,Pune,4
+ORD00196,Customer_1386,Green Leaf,Paneer Tikka,Starter,2,420,2026-06-16,20:30,21:23,Credit Card,Cancelled,Mumbai,4
+ORD00197,Customer_1981,Urban Kitchen,Paneer Tikka,Starter,3,630,2026-05-16,19:30,20:02,Debit Card,Out for Delivery,Ahmedabad,4
+ORD00198,Customer_1325,Royal Thali,Masala Dosa,South Indian,3,360,2026-04-17,21:45,22:36,Debit Card,Out for Delivery,Pune,4
+ORD00199,Customer_1978,Tasty Bites,Masala Dosa,South Indian,1,120,2026-07-14,16:52,17:34,Debit Card,Delivered,Ahmedabad,5
+ORD00200,Customer_1220,Urban Kitchen,Veg Burger,Burger,3,447,2026-08-15,20:16,21:06,Wallet,Delivered,Mumbai,5
+ORD00201,Customer_1246,Urban Kitchen,Masala Dosa,South Indian,2,240,2026-02-25,19:47,20:44,UPI,Out for Delivery,Vadodara,5
+ORD00202,Customer_1103,Tasty Bites,Veg Biryani,Biryani,1,180,2026-02-21,16:21,17:11,UPI,Out for Delivery,Vadodara,5
+ORD00203,Customer_1293,Spice Hub,Veg Sandwich,Fast Food,4,440,2026-04-13,22:18,22:58,UPI,Out for Delivery,Vadodara,5
+ORD00204,Customer_1857,Burger House,Margherita Pizza,Pizza,2,498,2026-08-02,12:59,13:21,Cash,Delivered,Pune,4
+ORD00205,Customer_1951,Green Leaf,Margherita Pizza,Pizza,1,249,2026-06-02,19:38,20:04,Debit Card,Cancelled,Pune,5
+ORD00206,Customer_1198,Food Corner,Paneer Tikka,Starter,4,840,2026-03-10,18:29,19:06,Debit Card,Delivered,Pune,5
+ORD00207,Customer_1582,Urban Kitchen,Masala Dosa,South Indian,2,240,2026-01-08,21:21,21:59,Credit Card,Out for Delivery,Pune,5
+ORD00208,Customer_1190,Tasty Bites,White Sauce Pasta,Pasta,3,597,2026-02-14,16:42,17:08,Cash,Delivered,Vadodara,3
+ORD00209,Customer_1977,Green Leaf,Masala Dosa,South Indian,4,480,2026-05-01,17:48,18:25,Debit Card,Out for Delivery,Pune,5
+ORD00210,Customer_1684,Food Corner,Margherita Pizza,Pizza,3,747,2026-07-04,21:15,21:38,Cash,Delivered,Vadodara,5
+ORD00211,Customer_1377,Desi Zaika,Paneer Tikka,Starter,3,630,2026-03-02,20:58,21:36,Credit Card,Delivered,Vadodara,5
+ORD00212,Customer_1935,Royal Thali,Paneer Butter Masala,Indian,4,880,2026-07-11,16:44,17:39,Wallet,Delivered,Vadodara,5
+ORD00213,Customer_1080,Desi Zaika,Fried Rice,Chinese,1,160,2026-09-27,17:33,18:16,UPI,Delivered,Mumbai,5
+ORD00214,Customer_1453,Food Corner,Veg Biryani,Biryani,2,360,2026-03-26,15:54,16:47,Credit Card,Out for Delivery,Rajkot,3
+ORD00215,Customer_1426,Royal Thali,Paneer Tikka,Starter,4,840,2026-01-29,17:08,18:00,Wallet,Delivered,Mumbai,5
+ORD00216,Customer_1764,Urban Kitchen,Masala Dosa,South Indian,1,120,2026-07-22,14:52,15:12,Wallet,Delivered,Surat,5
+ORD00217,Customer_1033,Pizza Point,Chole Bhature,Indian,1,140,2026-01-31,11:59,12:49,Cash,Delivered,Vadodara,5
+ORD00218,Customer_1385,Food Corner,White Sauce Pasta,Pasta,3,597,2026-07-15,17:55,18:39,Wallet,Delivered,Pune,4
+ORD00219,Customer_1855,Spice Hub,Veg Burger,Burger,2,298,2026-07-21,18:08,18:42,UPI,Delivered,Rajkot,5
+ORD00220,Customer_1254,Royal Thali,Paneer Tikka,Starter,4,840,2026-09-30,16:52,17:26,Debit Card,Delivered,Ahmedabad,4
+ORD00221,Customer_1247,Urban Kitchen,Veg Burger,Burger,1,149,2026-08-03,19:49,20:10,UPI,Delivered,Mumbai,3
+ORD00222,Customer_1450,Urban Kitchen,Veg Sandwich,Fast Food,1,110,2026-05-06,21:02,21:47,Wallet,Delivered,Surat,4
+ORD00223,Customer_1592,Desi Zaika,Paneer Tikka,Starter,3,630,2026-04-30,21:36,22:16,Debit Card,Delivered,Ahmedabad,4
+ORD00224,Customer_1571,Desi Zaika,Paneer Tikka,Starter,2,420,2026-07-31,14:17,14:40,Credit Card,Cancelled,Mumbai,5
+ORD00225,Customer_1714,Burger House,Margherita Pizza,Pizza,3,747,2026-07-15,22:33,23:13,Cash,Delivered,Ahmedabad,5
+ORD00226,Customer_1826,Royal Thali,Paneer Butter Masala,Indian,4,880,2026-05-04,13:19,13:48,UPI,Out for Delivery,Rajkot,5
+ORD00227,Customer_1339,Food Corner,Paneer Tikka,Starter,2,420,2026-07-18,13:16,13:49,Cash,Delivered,Surat,5
+ORD00228,Customer_1618,Spice Hub,Veg Biryani,Biryani,1,180,2026-05-18,16:43,17:41,UPI,Delivered,Mumbai,5
+ORD00229,Customer_1311,Spice Hub,Paneer Tikka,Starter,2,420,2026-09-03,13:55,14:36,Credit Card,Delivered,Pune,3
+ORD00230,Customer_1566,Green Leaf,Veg Sandwich,Fast Food,2,220,2026-04-15,16:58,17:33,Debit Card,Cancelled,Rajkot,5
+ORD00231,Customer_1478,Food Corner,Chole Bhature,Indian,3,420,2026-05-14,15:32,16:23,Cash,Delivered,Vadodara,4
+ORD00232,Customer_1760,Tasty Bites,Chole Bhature,Indian,4,560,2026-01-24,19:55,20:29,UPI,Delivered,Mumbai,5
+ORD00233,Customer_1236,Burger House,Fried Rice,Chinese,4,640,2026-06-01,12:12,12:53,Wallet,Delivered,Rajkot,5
+ORD00234,Customer_1472,Tasty Bites,Chole Bhature,Indian,3,420,2026-09-08,21:41,22:32,Debit Card,Delivered,Vadodara,5
+ORD00235,Customer_1537,Spice Hub,Paneer Tikka,Starter,4,840,2026-04-05,18:41,19:04,UPI,Delivered,Surat,5
+ORD00236,Customer_1224,The Food Factory,Paneer Butter Masala,Indian,2,440,2026-02-04,21:09,21:29,Cash,Delivered,Surat,5
+ORD00237,Customer_1565,Burger House,Fried Rice,Chinese,4,640,2026-09-07,10:00,10:54,UPI,Delivered,Mumbai,5
+ORD00238,Customer_1826,Tasty Bites,Masala Dosa,South Indian,3,360,2026-01-09,18:52,19:39,UPI,Delivered,Mumbai,4
+ORD00239,Customer_1274,Burger House,Veg Biryani,Biryani,2,360,2026-09-27,14:52,15:34,UPI,Delivered,Rajkot,5
+ORD00240,Customer_1670,Spice Hub,Fried Rice,Chinese,2,320,2026-04-26,14:43,15:08,UPI,Cancelled,Rajkot,5
+ORD00241,Customer_1085,Royal Thali,Paneer Tikka,Starter,4,840,2026-01-29,20:00,20:30,Cash,Delivered,Mumbai,3
+ORD00242,Customer_1487,Pizza Point,Paneer Tikka,Starter,1,210,2026-04-28,13:57,14:53,UPI,Delivered,Pune,4
+ORD00243,Customer_1602,Tasty Bites,Paneer Tikka,Starter,1,210,2026-04-02,15:01,15:34,Cash,Delivered,Ahmedabad,4
+ORD00244,Customer_1340,Burger House,Fried Rice,Chinese,2,320,2026-07-19,20:57,21:51,Credit Card,Delivered,Mumbai,5
+ORD00245,Customer_1349,Desi Zaika,Chole Bhature,Indian,1,140,2026-02-20,16:14,16:38,Wallet,Out for Delivery,Rajkot,4
+ORD00246,Customer_1567,Burger House,Margherita Pizza,Pizza,3,747,2026-08-19,17:14,17:56,Cash,Delivered,Pune,5
+ORD00247,Customer_1085,Pizza Point,White Sauce Pasta,Pasta,1,199,2026-06-01,22:15,22:39,Credit Card,Cancelled,Pune,5
+ORD00248,Customer_1006,Pizza Point,Paneer Butter Masala,Indian,4,880,2026-06-12,15:06,15:31,Cash,Delivered,Ahmedabad,3
+ORD00249,Customer_1569,The Food Factory,Paneer Butter Masala,Indian,1,220,2026-04-06,16:28,17:23,Cash,Delivered,Surat,3
+ORD00250,Customer_1424,Burger House,Chole Bhature,Indian,1,140,2026-06-16,16:00,16:38,UPI,Out for Delivery,Vadodara,5
+ORD00251,Customer_1309,Pizza Point,Paneer Tikka,Starter,2,420,2026-07-14,12:08,12:45,Cash,Delivered,Surat,4
+ORD00252,Customer_1370,Pizza Point,White Sauce Pasta,Pasta,3,597,2026-08-04,14:30,14:54,Credit Card,Cancelled,Mumbai,5
+ORD00253,Customer_1972,Burger House,Veg Biryani,Biryani,4,720,2026-02-24,12:19,12:39,Debit Card,Out for Delivery,Rajkot,4
+ORD00254,Customer_1308,Green Leaf,Veg Sandwich,Fast Food,3,330,2026-08-09,20:38,21:06,Wallet,Delivered,Rajkot,4
+ORD00255,Customer_1503,Desi Zaika,Paneer Butter Masala,Indian,4,880,2026-06-13,14:47,15:47,Credit Card,Delivered,Rajkot,4
+ORD00256,Customer_1559,Tasty Bites,White Sauce Pasta,Pasta,3,597,2026-02-28,19:12,20:09,Wallet,Delivered,Pune,5
+ORD00257,Customer_1690,Royal Thali,Veg Biryani,Biryani,4,720,2026-05-30,21:04,21:50,Credit Card,Delivered,Vadodara,4
+ORD00258,Customer_1491,Desi Zaika,Paneer Butter Masala,Indian,4,880,2026-07-13,11:28,12:26,Cash,Out for Delivery,Mumbai,5
+ORD00259,Customer_1609,Food Corner,White Sauce Pasta,Pasta,1,199,2026-07-04,21:57,22:51,UPI,Delivered,Pune,5
+ORD00260,Customer_1991,Green Leaf,Chole Bhature,Indian,2,280,2026-01-23,19:41,20:26,Cash,Delivered,Surat,3
+ORD00261,Customer_1595,Desi Zaika,Masala Dosa,South Indian,2,240,2026-09-19,21:33,22:28,Credit Card,Cancelled,Ahmedabad,5
+ORD00262,Customer_1303,Burger House,Veg Sandwich,Fast Food,2,220,2026-06-26,10:30,10:56,UPI,Delivered,Pune,4
+ORD00263,Customer_1534,Royal Thali,Chole Bhature,Indian,3,420,2026-06-25,17:50,18:23,Debit Card,Cancelled,Surat,5
+ORD00264,Customer_1024,Green Leaf,Veg Sandwich,Fast Food,3,330,2026-02-04,14:02,14:29,UPI,Delivered,Pune,4
+ORD00265,Customer_1982,Royal Thali,Paneer Tikka,Starter,2,420,2026-03-23,15:35,16:22,Credit Card,Cancelled,Pune,4
+ORD00266,Customer_1905,Urban Kitchen,Paneer Butter Masala,Indian,4,880,2026-07-22,10:47,11:46,Cash,Out for Delivery,Rajkot,5
+ORD00267,Customer_1592,Food Corner,Margherita Pizza,Pizza,2,498,2026-04-16,14:48,15:12,Wallet,Delivered,Ahmedabad,4
+ORD00268,Customer_1541,Green Leaf,Veg Biryani,Biryani,4,720,2026-02-28,14:42,15:33,Wallet,Cancelled,Mumbai,5
+ORD00269,Customer_1633,Tasty Bites,Fried Rice,Chinese,1,160,2026-06-28,15:54,16:43,Debit Card,Out for Delivery,Mumbai,3
+ORD00270,Customer_1188,Green Leaf,Paneer Butter Masala,Indian,3,660,2026-03-02,13:19,13:46,Credit Card,Out for Delivery,Rajkot,5
+ORD00271,Customer_1651,The Food Factory,Fried Rice,Chinese,2,320,2026-07-16,16:11,17:02,Credit Card,Out for Delivery,Vadodara,5
+ORD00272,Customer_1635,Spice Hub,Masala Dosa,South Indian,2,240,2026-04-06,15:53,16:41,Debit Card,Delivered,Rajkot,4
+ORD00273,Customer_1702,Royal Thali,Veg Biryani,Biryani,4,720,2026-09-16,20:31,21:17,Cash,Cancelled,Rajkot,4
+ORD00274,Customer_1231,The Food Factory,Veg Burger,Burger,1,149,2026-04-23,14:02,14:39,Debit Card,Delivered,Rajkot,5
+ORD00275,Customer_1844,Green Leaf,Veg Sandwich,Fast Food,1,110,2026-02-28,14:49,15:43,Wallet,Delivered,Pune,5
+ORD00276,Customer_1305,Spice Hub,Paneer Tikka,Starter,2,420,2026-08-06,11:47,12:22,Cash,Delivered,Ahmedabad,3
+ORD00277,Customer_1706,Green Leaf,Veg Sandwich,Fast Food,1,110,2026-05-02,13:51,14:48,Wallet,Cancelled,Vadodara,5
+ORD00278,Customer_1360,The Food Factory,Paneer Butter Masala,Indian,2,440,2026-04-16,22:03,22:59,Debit Card,Out for Delivery,Mumbai,4
+ORD00279,Customer_1922,Food Corner,Chole Bhature,Indian,3,420,2026-05-29,19:17,20:09,Credit Card,Cancelled,Surat,4
+ORD00280,Customer_1849,Urban Kitchen,Paneer Butter Masala,Indian,2,440,2026-05-08,12:45,13:25,Cash,Cancelled,Vadodara,5
+ORD00281,Customer_1814,Food Corner,Masala Dosa,South Indian,4,480,2026-07-12,17:04,18:04,Cash,Out for Delivery,Pune,4
+ORD00282,Customer_1890,Food Corner,Chole Bhature,Indian,4,560,2026-09-07,15:37,15:57,Cash,Delivered,Surat,5
+ORD00283,Customer_1331,Pizza Point,White Sauce Pasta,Pasta,2,398,2026-08-08,13:31,14:08,Debit Card,Out for Delivery,Mumbai,4
+ORD00284,Customer_1048,Food Corner,Fried Rice,Chinese,4,640,2026-06-25,20:48,21:11,Cash,Delivered,Surat,4
+ORD00285,Customer_1904,Pizza Point,Veg Sandwich,Fast Food,4,440,2026-01-01,16:12,16:40,Credit Card,Delivered,Surat,5
+ORD00286,Customer_1054,Burger House,Chole Bhature,Indian,3,420,2026-02-12,15:42,16:12,Debit Card,Delivered,Rajkot,5
+ORD00287,Customer_1136,Desi Zaika,Veg Burger,Burger,1,149,2026-01-01,13:30,13:54,Credit Card,Out for Delivery,Pune,5
+ORD00288,Customer_1711,Tasty Bites,Margherita Pizza,Pizza,1,249,2026-06-25,11:55,12:42,Cash,Delivered,Vadodara,5
+ORD00289,Customer_1141,Burger House,Veg Burger,Burger,1,149,2026-02-22,15:23,16:02,Credit Card,Delivered,Surat,5
+ORD00290,Customer_1644,Tasty Bites,Fried Rice,Chinese,1,160,2026-03-26,17:22,17:55,Cash,Out for Delivery,Pune,5
+ORD00291,Customer_1604,Burger House,Veg Biryani,Biryani,1,180,2026-02-21,12:48,13:15,Debit Card,Cancelled,Ahmedabad,4
+ORD00292,Customer_1615,Desi Zaika,Veg Biryani,Biryani,3,540,2026-02-13,13:35,14:33,Debit Card,Delivered,Pune,4
+ORD00293,Customer_1803,Urban Kitchen,Veg Biryani,Biryani,2,360,2026-07-20,14:41,15:04,Cash,Cancelled,Surat,4
+ORD00294,Customer_1136,Burger House,Veg Sandwich,Fast Food,1,110,2026-09-28,10:23,11:03,Wallet,Cancelled,Ahmedabad,5
+ORD00295,Customer_1015,Pizza Point,Paneer Butter Masala,Indian,4,880,2026-02-07,10:37,11:01,Credit Card,Delivered,Surat,5
+ORD00296,Customer_1719,Burger House,Paneer Tikka,Starter,3,630,2026-09-14,22:26,23:13,UPI,Out for Delivery,Mumbai,5
+ORD00297,Customer_1944,Urban Kitchen,Paneer Butter Masala,Indian,3,660,2026-02-12,14:05,14:57,Credit Card,Out for Delivery,Ahmedabad,5
+ORD00298,Customer_1060,Urban Kitchen,Fried Rice,Chinese,1,160,2026-06-08,21:27,22:02,UPI,Cancelled,Surat,5
+ORD00299,Customer_1123,Spice Hub,Fried Rice,Chinese,1,160,2026-06-08,20:47,21:18,Credit Card,Delivered,Vadodara,5
+ORD00300,Customer_1751,Food Corner,Chole Bhature,Indian,3,420,2026-03-27,15:08,15:45,UPI,Delivered,Rajkot,4
+ORD00301,Customer_1079,Royal Thali,Paneer Tikka,Starter,1,210,2026-05-15,21:36,22:36,Cash,Out for Delivery,Ahmedabad,3
+ORD00302,Customer_1916,Desi Zaika,Veg Sandwich,Fast Food,2,220,2026-07-08,12:16,12:42,UPI,Delivered,Pune,5
+ORD00303,Customer_1373,Burger House,Margherita Pizza,Pizza,1,249,2026-01-07,13:02,13:52,Credit Card,Delivered,Surat,5
+ORD00304,Customer_1278,Food Corner,White Sauce Pasta,Pasta,2,398,2026-06-14,13:26,14:06,Wallet,Delivered,Surat,5
+ORD00305,Customer_1977,Burger House,Margherita Pizza,Pizza,2,498,2026-04-25,22:33,22:55,UPI,Cancelled,Ahmedabad,4
+ORD00306,Customer_1299,Desi Zaika,Chole Bhature,Indian,1,140,2026-08-22,10:23,10:55,Debit Card,Out for Delivery,Vadodara,5
+ORD00307,Customer_1779,Urban Kitchen,Chole Bhature,Indian,4,560,2026-04-11,21:57,22:51,Credit Card,Delivered,Rajkot,3
+ORD00308,Customer_1870,Pizza Point,Veg Biryani,Biryani,3,540,2026-01-05,15:00,15:44,UPI,Delivered,Mumbai,4
+ORD00309,Customer_1096,Spice Hub,White Sauce Pasta,Pasta,4,796,2026-01-31,12:45,13:22,Credit Card,Out for Delivery,Rajkot,5
+ORD00310,Customer_1137,Burger House,Chole Bhature,Indian,4,560,2026-02-13,19:06,19:58,UPI,Out for Delivery,Mumbai,3
+ORD00311,Customer_1949,Burger House,White Sauce Pasta,Pasta,2,398,2026-05-02,14:16,14:56,Debit Card,Delivered,Rajkot,4
+ORD00312,Customer_1112,Tasty Bites,Veg Biryani,Biryani,1,180,2026-04-14,12:49,13:46,UPI,Delivered,Rajkot,5
+ORD00313,Customer_1463,Pizza Point,Chole Bhature,Indian,4,560,2026-03-03,18:22,18:55,Cash,Delivered,Surat,3
+ORD00314,Customer_1152,Food Corner,Paneer Butter Masala,Indian,3,660,2026-01-21,13:53,14:33,Credit Card,Delivered,Rajkot,5
+ORD00315,Customer_1876,Royal Thali,Margherita Pizza,Pizza,3,747,2026-05-14,12:01,12:46,Wallet,Out for Delivery,Vadodara,3
+ORD00316,Customer_1851,Urban Kitchen,Veg Sandwich,Fast Food,1,110,2026-03-13,11:00,11:23,Credit Card,Delivered,Rajkot,4
+ORD00317,Customer_1925,Royal Thali,Veg Burger,Burger,3,447,2026-02-08,10:04,10:36,Credit Card,Delivered,Ahmedabad,3
+ORD00318,Customer_1444,Burger House,Margherita Pizza,Pizza,4,996,2026-01-26,12:59,13:55,Cash,Delivered,Rajkot,5
+ORD00319,Customer_1282,Pizza Point,White Sauce Pasta,Pasta,2,398,2026-07-01,13:58,14:29,Cash,Delivered,Surat,5
+ORD00320,Customer_1491,Spice Hub,Fried Rice,Chinese,2,320,2026-06-01,17:26,18:21,UPI,Delivered,Rajkot,4
+ORD00321,Customer_1814,Spice Hub,White Sauce Pasta,Pasta,2,398,2026-09-27,13:40,14:34,Cash,Delivered,Rajkot,5
+ORD00322,Customer_1185,Spice Hub,Veg Sandwich,Fast Food,3,330,2026-09-15,15:24,16:01,Debit Card,Out for Delivery,Vadodara,3
+ORD00323,Customer_1239,Tasty Bites,Masala Dosa,South Indian,1,120,2026-08-30,18:22,19:19,UPI,Delivered,Pune,4
+ORD00324,Customer_1364,Tasty Bites,Masala Dosa,South Indian,1,120,2026-04-23,19:54,20:38,Credit Card,Delivered,Mumbai,4
+ORD00325,Customer_1577,Urban Kitchen,Chole Bhature,Indian,1,140,2026-06-30,19:36,20:05,Cash,Out for Delivery,Ahmedabad,4
+ORD00326,Customer_1225,Spice Hub,Veg Sandwich,Fast Food,1,110,2026-02-16,10:14,11:12,Wallet,Cancelled,Surat,4
+ORD00327,Customer_1941,Green Leaf,Fried Rice,Chinese,2,320,2026-03-08,15:45,16:16,UPI,Delivered,Vadodara,5
+ORD00328,Customer_1722,Burger House,Paneer Butter Masala,Indian,1,220,2026-09-27,15:04,15:47,Wallet,Delivered,Ahmedabad,4
+ORD00329,Customer_1984,Royal Thali,Chole Bhature,Indian,2,280,2026-03-22,21:27,22:27,Debit Card,Delivered,Pune,5
+ORD00330,Customer_1388,Pizza Point,Fried Rice,Chinese,3,480,2026-04-25,20:37,21:08,Debit Card,Delivered,Vadodara,5
+ORD00331,Customer_1944,Desi Zaika,Margherita Pizza,Pizza,4,996,2026-01-17,12:38,13:18,Credit Card,Out for Delivery,Surat,5
+ORD00332,Customer_1172,Food Corner,Paneer Butter Masala,Indian,3,660,2026-02-09,13:22,14:02,Debit Card,Cancelled,Surat,4
+ORD00333,Customer_1738,Spice Hub,Veg Biryani,Biryani,2,360,2026-02-04,15:16,15:42,UPI,Cancelled,Rajkot,5
+ORD00334,Customer_1360,The Food Factory,White Sauce Pasta,Pasta,2,398,2026-07-31,17:56,18:40,Cash,Delivered,Rajkot,5
+ORD00335,Customer_1302,Spice Hub,Veg Biryani,Biryani,2,360,2026-08-20,11:51,12:13,Debit Card,Delivered,Surat,3
+ORD00336,Customer_1561,Food Corner,Chole Bhature,Indian,2,280,2026-07-12,12:46,13:10,Debit Card,Out for Delivery,Mumbai,5
+ORD00337,Customer_1161,Spice Hub,Margherita Pizza,Pizza,4,996,2026-03-26,19:56,20:43,UPI,Delivered,Vadodara,4
+ORD00338,Customer_1051,Burger House,White Sauce Pasta,Pasta,3,597,2026-05-25,14:15,14:41,Wallet,Out for Delivery,Rajkot,4
+ORD00339,Customer_1844,Desi Zaika,Margherita Pizza,Pizza,3,747,2026-01-02,16:05,16:43,Cash,Delivered,Surat,3
+ORD00340,Customer_1316,Burger House,Veg Biryani,Biryani,2,360,2026-05-30,11:30,11:57,Cash,Cancelled,Pune,4
+ORD00341,Customer_1379,Tasty Bites,Veg Burger,Burger,4,596,2026-04-05,15:56,16:40,Cash,Delivered,Ahmedabad,5
+ORD00342,Customer_1155,Food Corner,Veg Sandwich,Fast Food,3,330,2026-04-26,14:36,14:59,UPI,Delivered,Mumbai,5
+ORD00343,Customer_1429,The Food Factory,Fried Rice,Chinese,2,320,2026-02-01,16:52,17:45,Cash,Out for Delivery,Vadodara,5
+ORD00344,Customer_1585,The Food Factory,Masala Dosa,South Indian,1,120,2026-07-22,21:02,21:54,Wallet,Out for Delivery,Vadodara,3
+ORD00345,Customer_1130,Spice Hub,Veg Sandwich,Fast Food,2,220,2026-03-27,13:51,14:23,Cash,Delivered,Pune,5
+ORD00346,Customer_1090,Burger House,Veg Biryani,Biryani,2,360,2026-05-13,15:58,16:22,Wallet,Cancelled,Mumbai,4
+ORD00347,Customer_1602,The Food Factory,Masala Dosa,South Indian,4,480,2026-01-07,22:44,23:43,Cash,Delivered,Rajkot,4
+ORD00348,Customer_1805,Pizza Point,Paneer Butter Masala,Indian,1,220,2026-02-24,19:49,20:15,Wallet,Delivered,Rajkot,4
+ORD00349,Customer_1413,Tasty Bites,White Sauce Pasta,Pasta,4,796,2026-08-31,10:11,10:48,Wallet,Out for Delivery,Pune,5
+ORD00350,Customer_1051,Royal Thali,White Sauce Pasta,Pasta,1,199,2026-07-22,15:44,16:19,Debit Card,Delivered,Surat,4
+ORD00351,Customer_1996,Urban Kitchen,Masala Dosa,South Indian,3,360,2026-05-24,17:54,18:20,Credit Card,Delivered,Pune,5
+ORD00352,Customer_1193,Royal Thali,Chole Bhature,Indian,3,420,2026-08-02,19:41,20:06,Credit Card,Cancelled,Pune,5
+ORD00353,Customer_1068,Pizza Point,Paneer Tikka,Starter,3,630,2026-01-29,18:50,19:20,Wallet,Cancelled,Vadodara,5
+ORD00354,Customer_1858,Spice Hub,Fried Rice,Chinese,1,160,2026-03-30,13:56,14:28,Credit Card,Delivered,Rajkot,3
+ORD00355,Customer_1518,Burger House,Chole Bhature,Indian,2,280,2026-05-21,15:52,16:41,UPI,Delivered,Vadodara,4
+ORD00356,Customer_1359,Green Leaf,Veg Sandwich,Fast Food,4,440,2026-04-01,17:37,18:32,Credit Card,Delivered,Pune,5
+ORD00357,Customer_1875,Desi Zaika,Veg Burger,Burger,3,447,2026-01-15,16:03,16:33,Credit Card,Delivered,Pune,4
+ORD00358,Customer_1486,Tasty Bites,Veg Biryani,Biryani,3,540,2026-07-29,18:01,18:21,Credit Card,Out for Delivery,Surat,4
+ORD00359,Customer_1873,Green Leaf,Masala Dosa,South Indian,3,360,2026-05-21,16:57,17:41,Cash,Delivered,Vadodara,5
+ORD00360,Customer_1575,Desi Zaika,Masala Dosa,South Indian,4,480,2026-02-22,10:32,11:15,Wallet,Delivered,Ahmedabad,5
+ORD00361,Customer_1333,Pizza Point,Veg Burger,Burger,4,596,2026-02-02,15:17,16:17,Debit Card,Delivered,Vadodara,4
+ORD00362,Customer_1414,Green Leaf,Paneer Tikka,Starter,2,420,2026-01-30,22:54,23:52,Credit Card,Delivered,Pune,5
+ORD00363,Customer_1598,Desi Zaika,Masala Dosa,South Indian,3,360,2026-08-03,16:24,16:46,Credit Card,Delivered,Pune,5
+ORD00364,Customer_1861,The Food Factory,Veg Biryani,Biryani,4,720,2026-07-03,18:19,18:49,Credit Card,Delivered,Surat,5
+ORD00365,Customer_1671,Food Corner,Paneer Butter Masala,Indian,3,660,2026-04-04,20:57,21:38,Credit Card,Delivered,Vadodara,5
+ORD00366,Customer_1302,Royal Thali,Masala Dosa,South Indian,4,480,2026-06-19,15:16,16:13,UPI,Cancelled,Surat,5
+ORD00367,Customer_1889,Burger House,Fried Rice,Chinese,1,160,2026-08-30,13:32,13:59,Wallet,Delivered,Rajkot,3
+ORD00368,Customer_1915,Royal Thali,Paneer Butter Masala,Indian,2,440,2026-04-13,15:26,16:22,Credit Card,Delivered,Pune,4
+ORD00369,Customer_1650,Spice Hub,Veg Burger,Burger,4,596,2026-06-20,20:11,20:51,UPI,Cancelled,Ahmedabad,4
+ORD00370,Customer_1133,Desi Zaika,Paneer Butter Masala,Indian,2,440,2026-09-08,22:48,23:13,Cash,Cancelled,Rajkot,5
+ORD00371,Customer_1749,Green Leaf,Veg Sandwich,Fast Food,4,440,2026-01-03,10:34,11:06,UPI,Delivered,Mumbai,4
+ORD00372,Customer_1320,Tasty Bites,Margherita Pizza,Pizza,1,249,2026-05-08,13:44,14:26,UPI,Cancelled,Mumbai,5
+ORD00373,Customer_1467,The Food Factory,Masala Dosa,South Indian,2,240,2026-02-03,10:19,10:57,Wallet,Out for Delivery,Ahmedabad,5
+ORD00374,Customer_1169,Burger House,Paneer Butter Masala,Indian,3,660,2026-09-08,15:48,16:20,UPI,Delivered,Vadodara,5
+ORD00375,Customer_1127,Green Leaf,Paneer Butter Masala,Indian,2,440,2026-01-12,19:32,20:02,UPI,Cancelled,Pune,4
+ORD00376,Customer_1050,Food Corner,Paneer Tikka,Starter,1,210,2026-01-25,20:06,20:27,Cash,Cancelled,Rajkot,3
+ORD00377,Customer_1712,Spice Hub,Paneer Tikka,Starter,3,630,2026-08-31,21:09,21:42,Debit Card,Cancelled,Pune,3
+ORD00378,Customer_1524,Desi Zaika,Paneer Tikka,Starter,3,630,2026-03-12,16:53,17:19,UPI,Delivered,Surat,3
+ORD00379,Customer_1997,Urban Kitchen,Veg Sandwich,Fast Food,2,220,2026-04-13,22:16,23:09,Debit Card,Cancelled,Ahmedabad,4
+ORD00380,Customer_1339,Urban Kitchen,Margherita Pizza,Pizza,4,996,2026-04-17,21:59,22:49,UPI,Delivered,Pune,3
+ORD00381,Customer_1077,Food Corner,Veg Burger,Burger,4,596,2026-03-18,11:49,12:41,Debit Card,Delivered,Rajkot,4
+ORD00382,Customer_1896,Spice Hub,Masala Dosa,South Indian,4,480,2026-01-26,11:52,12:23,Debit Card,Delivered,Pune,4
+ORD00383,Customer_1010,Tasty Bites,White Sauce Pasta,Pasta,1,199,2026-02-18,22:56,23:18,Credit Card,Delivered,Ahmedabad,5
+ORD00384,Customer_1188,Food Corner,Fried Rice,Chinese,3,480,2026-02-17,15:52,16:33,Cash,Cancelled,Rajkot,4
+ORD00385,Customer_1116,Tasty Bites,White Sauce Pasta,Pasta,4,796,2026-08-04,20:56,21:26,UPI,Delivered,Surat,5
+ORD00386,Customer_1798,Green Leaf,Fried Rice,Chinese,4,640,2026-08-13,12:39,13:23,Wallet,Delivered,Pune,5
+ORD00387,Customer_1452,Spice Hub,Paneer Butter Masala,Indian,4,880,2026-09-07,11:56,12:42,UPI,Delivered,Pune,4
+ORD00388,Customer_1098,Burger House,Margherita Pizza,Pizza,2,498,2026-06-23,18:33,19:32,Credit Card,Cancelled,Ahmedabad,5
+ORD00389,Customer_1518,Royal Thali,White Sauce Pasta,Pasta,2,398,2026-01-28,10:41,11:11,Cash,Delivered,Surat,5
+ORD00390,Customer_1229,The Food Factory,Chole Bhature,Indian,2,280,2026-06-19,14:03,14:55,Cash,Cancelled,Vadodara,3
+ORD00391,Customer_1458,Green Leaf,Veg Sandwich,Fast Food,4,440,2026-08-18,11:54,12:45,UPI,Cancelled,Pune,5
+ORD00392,Customer_1563,Spice Hub,Margherita Pizza,Pizza,1,249,2026-07-26,16:02,16:57,UPI,Out for Delivery,Mumbai,5
+ORD00393,Customer_1837,Urban Kitchen,Masala Dosa,South Indian,2,240,2026-08-22,15:23,15:46,Cash,Delivered,Mumbai,5
+ORD00394,Customer_1100,Urban Kitchen,Fried Rice,Chinese,4,640,2026-07-06,21:28,21:55,UPI,Delivered,Ahmedabad,5
+ORD00395,Customer_1505,Tasty Bites,Masala Dosa,South Indian,3,360,2026-02-24,10:57,11:27,Cash,Delivered,Ahmedabad,5
+ORD00396,Customer_1845,Urban Kitchen,Veg Biryani,Biryani,2,360,2026-03-03,16:13,17:02,Debit Card,Delivered,Rajkot,3
+ORD00397,Customer_1980,The Food Factory,Fried Rice,Chinese,1,160,2026-08-19,17:42,18:39,Credit Card,Cancelled,Surat,5
+ORD00398,Customer_1709,Desi Zaika,Margherita Pizza,Pizza,4,996,2026-09-05,18:49,19:20,Credit Card,Delivered,Surat,5
+ORD00399,Customer_1938,Urban Kitchen,Fried Rice,Chinese,3,480,2026-09-16,16:26,17:24,Debit Card,Cancelled,Ahmedabad,4
+ORD00400,Customer_1307,The Food Factory,Veg Sandwich,Fast Food,2,220,2026-03-12,16:38,17:30,Debit Card,Out for Delivery,Pune,4
+ORD00401,Customer_1728,Tasty Bites,Veg Biryani,Biryani,2,360,2026-05-29,20:22,20:50,Wallet,Out for Delivery,Pune,5
+ORD00402,Customer_1585,Burger House,Chole Bhature,Indian,1,140,2026-06-30,18:30,19:27,Wallet,Delivered,Rajkot,3
+ORD00403,Customer_1687,Spice Hub,Paneer Tikka,Starter,1,210,2026-01-13,16:09,16:32,Credit Card,Delivered,Vadodara,4
+ORD00404,Customer_1209,The Food Factory,Masala Dosa,South Indian,2,240,2026-02-01,21:50,22:28,UPI,Delivered,Rajkot,3
+ORD00405,Customer_1710,Spice Hub,Fried Rice,Chinese,2,320,2026-07-19,13:32,14:10,Cash,Cancelled,Rajkot,5
+ORD00406,Customer_1636,Royal Thali,Chole Bhature,Indian,1,140,2026-01-07,21:16,21:48,Credit Card,Delivered,Mumbai,5
+ORD00407,Customer_1700,Food Corner,Fried Rice,Chinese,2,320,2026-04-10,14:28,14:59,Credit Card,Delivered,Pune,5
+ORD00408,Customer_1271,Tasty Bites,Veg Burger,Burger,4,596,2026-01-21,16:17,17:12,Credit Card,Out for Delivery,Ahmedabad,3
+ORD00409,Customer_1612,Spice Hub,Chole Bhature,Indian,4,560,2026-03-21,10:09,10:49,Wallet,Delivered,Rajkot,5
+ORD00410,Customer_1539,Urban Kitchen,Paneer Tikka,Starter,3,630,2026-02-07,22:45,23:25,Credit Card,Out for Delivery,Surat,5
+ORD00411,Customer_1905,Urban Kitchen,Paneer Butter Masala,Indian,4,880,2026-07-26,11:22,11:56,Debit Card,Delivered,Ahmedabad,4
+ORD00412,Customer_1457,Urban Kitchen,Veg Biryani,Biryani,4,720,2026-01-05,11:42,12:24,Wallet,Out for Delivery,Vadodara,3
+ORD00413,Customer_1742,Pizza Point,Chole Bhature,Indian,4,560,2026-02-28,16:16,17:10,UPI,Out for Delivery,Ahmedabad,5
+ORD00414,Customer_1329,The Food Factory,Paneer Tikka,Starter,4,840,2026-09-07,10:18,10:50,UPI,Delivered,Vadodara,5
+ORD00415,Customer_1793,Urban Kitchen,Paneer Tikka,Starter,1,210,2026-02-03,13:42,14:42,Cash,Delivered,Vadodara,5
+ORD00416,Customer_1039,Food Corner,White Sauce Pasta,Pasta,1,199,2026-03-20,10:29,11:10,UPI,Delivered,Vadodara,4
+ORD00417,Customer_1462,Burger House,Paneer Tikka,Starter,1,210,2026-04-27,14:26,15:10,Cash,Delivered,Surat,5
+ORD00418,Customer_1047,Food Corner,Veg Burger,Burger,1,149,2026-02-02,22:47,23:44,Debit Card,Out for Delivery,Surat,4
+ORD00419,Customer_1391,Burger House,Masala Dosa,South Indian,1,120,2026-05-25,22:59,23:47,UPI,Cancelled,Vadodara,5
+ORD00420,Customer_1303,Tasty Bites,Veg Biryani,Biryani,2,360,2026-07-20,22:51,23:45,Debit Card,Delivered,Surat,5
+ORD00421,Customer_1611,Burger House,Paneer Tikka,Starter,2,420,2026-03-05,10:00,10:56,Wallet,Out for Delivery,Surat,4
+ORD00422,Customer_1146,Tasty Bites,Veg Biryani,Biryani,3,540,2026-04-19,16:57,17:49,Credit Card,Delivered,Mumbai,4
+ORD00423,Customer_1873,Spice Hub,Veg Biryani,Biryani,1,180,2026-04-03,20:51,21:47,Wallet,Cancelled,Pune,5
+ORD00424,Customer_1744,Desi Zaika,Veg Burger,Burger,3,447,2026-02-04,14:06,14:38,Cash,Delivered,Ahmedabad,4
+ORD00425,Customer_1326,Royal Thali,Veg Biryani,Biryani,1,180,2026-05-26,19:04,19:36,Cash,Delivered,Mumbai,5
+ORD00426,Customer_1173,Spice Hub,Masala Dosa,South Indian,2,240,2026-07-06,22:20,23:07,Debit Card,Delivered,Vadodara,5
+ORD00427,Customer_1899,Royal Thali,White Sauce Pasta,Pasta,3,597,2026-07-04,12:43,13:24,Cash,Cancelled,Ahmedabad,4
+ORD00428,Customer_1862,Pizza Point,Veg Sandwich,Fast Food,1,110,2026-03-31,20:38,21:03,Credit Card,Out for Delivery,Vadodara,4
+ORD00429,Customer_1833,Desi Zaika,Veg Burger,Burger,1,149,2026-01-10,18:40,19:01,Wallet,Cancelled,Mumbai,4
+ORD00430,Customer_1375,Burger House,Margherita Pizza,Pizza,3,747,2026-08-30,20:49,21:18,Credit Card,Out for Delivery,Pune,4
+ORD00431,Customer_1373,The Food Factory,Paneer Butter Masala,Indian,4,880,2026-09-14,18:05,18:50,UPI,Delivered,Mumbai,5
+ORD00432,Customer_1972,Desi Zaika,Paneer Butter Masala,Indian,2,440,2026-08-17,12:11,13:07,Credit Card,Cancelled,Ahmedabad,3
+ORD00433,Customer_1240,Spice Hub,Veg Biryani,Biryani,4,720,2026-04-29,11:16,11:59,Credit Card,Out for Delivery,Ahmedabad,5
+ORD00434,Customer_1106,The Food Factory,Veg Sandwich,Fast Food,4,440,2026-01-24,10:41,11:21,Debit Card,Delivered,Mumbai,5
+ORD00435,Customer_1602,Food Corner,Fried Rice,Chinese,2,320,2026-07-12,20:24,21:07,Wallet,Delivered,Rajkot,4
+ORD00436,Customer_1909,Desi Zaika,Paneer Tikka,Starter,4,840,2026-06-30,15:31,16:21,UPI,Out for Delivery,Vadodara,5
+ORD00437,Customer_1217,Tasty Bites,Paneer Butter Masala,Indian,2,440,2026-02-09,18:41,19:18,Credit Card,Delivered,Ahmedabad,5
+ORD00438,Customer_1494,Royal Thali,Veg Burger,Burger,2,298,2026-08-01,22:21,22:48,Cash,Delivered,Mumbai,4
+ORD00439,Customer_1607,Tasty Bites,White Sauce Pasta,Pasta,1,199,2026-05-05,10:08,11:04,Credit Card,Out for Delivery,Surat,5
+ORD00440,Customer_1530,Burger House,Paneer Butter Masala,Indian,1,220,2026-03-27,14:59,15:30,Wallet,Out for Delivery,Pune,3
+ORD00441,Customer_1889,Royal Thali,Masala Dosa,South Indian,1,120,2026-04-21,17:38,18:28,Credit Card,Delivered,Rajkot,5
+ORD00442,Customer_1945,Royal Thali,Paneer Butter Masala,Indian,2,440,2026-09-19,14:10,14:51,Wallet,Out for Delivery,Surat,4
+ORD00443,Customer_1536,The Food Factory,White Sauce Pasta,Pasta,4,796,2026-03-09,11:01,11:33,Cash,Delivered,Mumbai,3
+ORD00444,Customer_1771,Food Corner,Paneer Butter Masala,Indian,4,880,2026-01-20,22:34,23:26,UPI,Cancelled,Pune,4
+ORD00445,Customer_1896,Spice Hub,Fried Rice,Chinese,1,160,2026-08-09,18:26,19:09,Wallet,Cancelled,Vadodara,5
+ORD00446,Customer_1489,Urban Kitchen,White Sauce Pasta,Pasta,3,597,2026-02-20,16:08,16:44,UPI,Delivered,Mumbai,5
+ORD00447,Customer_1592,The Food Factory,White Sauce Pasta,Pasta,3,597,2026-04-07,10:45,11:05,UPI,Out for Delivery,Surat,5
+ORD00448,Customer_1437,Desi Zaika,Veg Biryani,Biryani,3,540,2026-07-29,15:06,15:35,Debit Card,Delivered,Mumbai,5
+ORD00449,Customer_1424,The Food Factory,Fried Rice,Chinese,3,480,2026-05-22,20:25,20:58,Wallet,Cancelled,Vadodara,4
+ORD00450,Customer_1793,Burger House,Paneer Tikka,Starter,4,840,2026-05-10,14:36,15:18,Credit Card,Delivered,Pune,4
+ORD00451,Customer_1805,Green Leaf,Veg Sandwich,Fast Food,2,220,2026-02-21,13:32,14:17,Wallet,Out for Delivery,Pune,5
+ORD00452,Customer_1844,Tasty Bites,Margherita Pizza,Pizza,2,498,2026-07-19,20:00,20:25,Cash,Out for Delivery,Rajkot,3
+ORD00453,Customer_1039,Burger House,Veg Burger,Burger,3,447,2026-04-24,15:05,16:03,Cash,Out for Delivery,Pune,5
+ORD00454,Customer_1011,Urban Kitchen,Masala Dosa,South Indian,1,120,2026-03-31,20:31,21:19,Wallet,Delivered,Vadodara,3
+ORD00455,Customer_1245,Spice Hub,Fried Rice,Chinese,2,320,2026-03-28,20:02,20:45,Credit Card,Delivered,Ahmedabad,5
+ORD00456,Customer_1016,Food Corner,Chole Bhature,Indian,4,560,2026-07-27,19:12,20:05,UPI,Out for Delivery,Ahmedabad,5
+ORD00457,Customer_1987,Urban Kitchen,Paneer Tikka,Starter,3,630,2026-06-27,14:14,15:12,Cash,Cancelled,Mumbai,3
+ORD00458,Customer_1075,The Food Factory,Masala Dosa,South Indian,2,240,2026-07-28,18:06,19:01,Debit Card,Delivered,Surat,5
+ORD00459,Customer_1789,Urban Kitchen,Masala Dosa,South Indian,3,360,2026-08-15,16:36,17:26,Debit Card,Cancelled,Pune,5
+ORD00460,Customer_1392,Urban Kitchen,Fried Rice,Chinese,1,160,2026-09-04,11:16,11:40,Credit Card,Delivered,Rajkot,4
+ORD00461,Customer_1409,Green Leaf,Paneer Tikka,Starter,1,210,2026-05-15,13:18,13:43,UPI,Out for Delivery,Vadodara,5
+ORD00462,Customer_1970,Urban Kitchen,Chole Bhature,Indian,3,420,2026-04-22,19:17,19:48,Cash,Delivered,Vadodara,5
+ORD00463,Customer_1857,Desi Zaika,Veg Biryani,Biryani,3,540,2026-04-16,13:12,13:47,Debit Card,Delivered,Surat,3
+ORD00464,Customer_1981,Spice Hub,Veg Burger,Burger,4,596,2026-01-04,22:54,23:48,Cash,Delivered,Mumbai,4
+ORD00465,Customer_1287,Burger House,Veg Sandwich,Fast Food,3,330,2026-09-09,12:48,13:40,Credit Card,Out for Delivery,Vadodara,3
+ORD00466,Customer_1356,Burger House,Paneer Tikka,Starter,4,840,2026-09-02,18:02,18:54,Credit Card,Cancelled,Surat,5
+ORD00467,Customer_1691,Urban Kitchen,Paneer Tikka,Starter,4,840,2026-06-11,21:00,21:20,Cash,Out for Delivery,Surat,4
+ORD00468,Customer_1276,Royal Thali,Chole Bhature,Indian,3,420,2026-04-06,18:16,18:51,Wallet,Delivered,Ahmedabad,4
+ORD00469,Customer_1374,Burger House,Veg Sandwich,Fast Food,4,440,2026-04-18,16:44,17:27,Debit Card,Cancelled,Vadodara,5
+ORD00470,Customer_1569,Burger House,Paneer Butter Masala,Indian,2,440,2026-02-21,21:17,21:52,Cash,Delivered,Vadodara,5
+ORD00471,Customer_1138,The Food Factory,Paneer Butter Masala,Indian,4,880,2026-01-05,12:26,13:17,Wallet,Delivered,Rajkot,4
+ORD00472,Customer_1062,Urban Kitchen,Masala Dosa,South Indian,1,120,2026-07-23,11:44,12:14,Debit Card,Cancelled,Pune,3
+ORD00473,Customer_1571,Pizza Point,Veg Sandwich,Fast Food,3,330,2026-05-14,15:23,16:18,Debit Card,Delivered,Rajkot,3
+ORD00474,Customer_1333,The Food Factory,Chole Bhature,Indian,2,280,2026-03-31,22:18,23:00,Cash,Cancelled,Surat,5
+ORD00475,Customer_1656,Green Leaf,Fried Rice,Chinese,3,480,2026-08-26,20:09,20:39,Cash,Out for Delivery,Mumbai,5
+ORD00476,Customer_1325,Pizza Point,Veg Burger,Burger,1,149,2026-03-24,15:14,15:54,Debit Card,Out for Delivery,Pune,5
+ORD00477,Customer_1989,Royal Thali,Masala Dosa,South Indian,4,480,2026-07-05,21:37,22:30,Cash,Delivered,Vadodara,3
+ORD00478,Customer_1216,Tasty Bites,Paneer Butter Masala,Indian,2,440,2026-05-09,21:44,22:09,Cash,Delivered,Surat,3
+ORD00479,Customer_1784,Food Corner,Veg Sandwich,Fast Food,1,110,2026-01-14,22:25,23:18,UPI,Delivered,Mumbai,4
+ORD00480,Customer_1454,Tasty Bites,Veg Burger,Burger,4,596,2026-06-08,13:15,13:53,Credit Card,Out for Delivery,Vadodara,3
+ORD00481,Customer_1958,Pizza Point,Margherita Pizza,Pizza,3,747,2026-06-16,17:29,18:23,Wallet,Cancelled,Vadodara,5
+ORD00482,Customer_1899,Desi Zaika,Paneer Tikka,Starter,2,420,2026-08-22,20:47,21:47,Cash,Out for Delivery,Pune,5
+ORD00483,Customer_1825,Food Corner,Paneer Tikka,Starter,3,630,2026-06-27,17:34,18:08,Cash,Delivered,Ahmedabad,5
+ORD00484,Customer_1835,Tasty Bites,Masala Dosa,South Indian,2,240,2026-06-05,10:00,10:53,Debit Card,Delivered,Rajkot,5
+ORD00485,Customer_1818,Pizza Point,Margherita Pizza,Pizza,4,996,2026-09-02,14:00,14:47,Wallet,Delivered,Surat,5
+ORD00486,Customer_1256,Tasty Bites,Chole Bhature,Indian,2,280,2026-07-30,18:27,19:12,Cash,Cancelled,Vadodara,4
+ORD00487,Customer_1827,Pizza Point,Veg Burger,Burger,4,596,2026-05-03,18:48,19:47,Debit Card,Out for Delivery,Ahmedabad,5
+ORD00488,Customer_1653,Royal Thali,Veg Biryani,Biryani,1,180,2026-04-04,12:18,12:45,Wallet,Cancelled,Ahmedabad,5
+ORD00489,Customer_1051,The Food Factory,Fried Rice,Chinese,4,640,2026-04-07,15:01,15:30,UPI,Delivered,Surat,4
+ORD00490,Customer_1093,Tasty Bites,Masala Dosa,South Indian,2,240,2026-08-13,21:00,21:34,UPI,Cancelled,Vadodara,4
+ORD00491,Customer_1339,Food Corner,White Sauce Pasta,Pasta,3,597,2026-09-13,15:29,15:51,Credit Card,Delivered,Ahmedabad,5
+ORD00492,Customer_1837,Burger House,Veg Burger,Burger,4,596,2026-04-03,13:57,14:33,UPI,Delivered,Pune,4
+ORD00493,Customer_1472,Food Corner,White Sauce Pasta,Pasta,4,796,2026-05-07,21:02,21:34,Wallet,Delivered,Rajkot,5
+ORD00494,Customer_1763,The Food Factory,Masala Dosa,South Indian,3,360,2026-03-23,20:46,21:08,Wallet,Delivered,Ahmedabad,5
+ORD00495,Customer_1997,Food Corner,Masala Dosa,South Indian,2,240,2026-07-04,10:55,11:28,Credit Card,Cancelled,Ahmedabad,3
+ORD00496,Customer_1010,Spice Hub,Paneer Butter Masala,Indian,3,660,2026-03-03,16:50,17:25,Wallet,Cancelled,Pune,5
+ORD00497,Customer_1094,Desi Zaika,Paneer Butter Masala,Indian,3,660,2026-02-15,13:10,14:01,Debit Card,Delivered,Surat,4
+ORD00498,Customer_1572,Green Leaf,Paneer Butter Masala,Indian,1,220,2026-03-06,17:14,17:54,Cash,Delivered,Surat,5
+ORD00499,Customer_1497,Royal Thali,White Sauce Pasta,Pasta,3,597,2026-03-10,14:57,15:19,Wallet,Delivered,Mumbai,5
+ORD00500,Customer_1750,Royal Thali,Veg Sandwich,Fast Food,2,220,2026-04-06,18:22,19:02,Debit Card,Out for Delivery,Mumbai,4
